@@ -2,7 +2,7 @@
 Alpha Improvement Proposals (AIPs) describe standards for Alpha Finance Lab platform, including core protocol specifications, client APIs, and contract standards.
 
 # Contributing
-1. Review AIP-0.
+1. Review AIP-1.
 2. Fork the repository by clicking "Fork" in the top right.
 3. Add your AIP to your fork of the repository. There is a template AIP here.
 4. Submit a Pull Request to Alpha Finance Lab's AIPs repository.
